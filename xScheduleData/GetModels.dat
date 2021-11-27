@@ -1,1 +1,1 @@
-{"models":[]}
+{"models":[{"name":"Arches","type":"Arches","startchannel":"452","channels":"150","stringtype":"RGB Nodes"},{"name":"Single Line","type":"Single Line","startchannel":"2","channels":"150","stringtype":"RGB Nodes"},{"name":"Single Line-2","type":"Single Line","startchannel":"152","channels":"150","stringtype":"RGB Nodes"},{"name":"Single Line-3","type":"Single Line","startchannel":"302","channels":"150","stringtype":"RGB Nodes"}]}
